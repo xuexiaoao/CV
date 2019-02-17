@@ -1,0 +1,22 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "cooper's resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuexiaoao/resume.git"
+  },
+  "author": "xueao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuexiaoao/resume/issues"
+  },
+  "homepage": "https://github.com/xuexiaoao/resume#readme",
+  "dependencies": {
+    "marked": "^0.6.0"
+  }
+}
